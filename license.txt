@@ -1,0 +1,65 @@
+﻿Kish Multi Pro Plugin Copyright (c)2010 KishPress.com
+--------------------------------------------------------------------------------
+For more information on our license
+http://kishpress.com/about/
+--------------------------------------------------------------------------------
+
+
+PLEASE READ THIS DOCUMENT CAREFULLY BEFORE INSTALLING THE SCRIPT. BY INSTALLING 
+AND USING THE SCRIPT, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.  IF 
+YOU DO NOT AGREE TO THE TERMS OF THE AGREEMENT, DO NOT INSTALL OR USE THE 
+SCRIPT.
+
+
+
+
+SOFTWARE LICENSE AGREEMENT
+
+Use of AutoBlogged (hereinafter "Script") is contingent on your agreement to the 
+following terms:
+
+1. GRANT OF LICENSE KishPress.com (hereinafter "AUTHOR") grants you a limited, 
+non-exclusive license to use the Script.  The Script is licensed, not sold, to 
+you for use only under the terms of this Agreement.
+
+WordPress Site - A site is a single WordPress blog, or a single WordPress 
+installation, no matter whether it is a unique domain, subdomain, or subdirectory. 
+In the case of WordPress MU, each blog is an individual site. 
+
+Single Site License - A single person or entity may use one registered copy of 
+Script either personally or commercially on one WordPress installation or blog.
+You may not redistribute, sublicense, rent, lease, or sell your license without 
+relinquishing all rights and ownership of your license. 
+
+2. SCOPE OF GRANT You may modify the Script for your own needs but shall not 
+remove or modify any code that enforeces license or copyright compliance. Note 
+that modifying the script voids any warranty and may disqualify you from 
+receiving technical support. You may not modify, rent, or resell for profit this 
+Script, or create derivative works based upon this Script. You may not publicize 
+or distribute any registration code algorithms, information, or registration 
+codes used by this Script without permission from the AUTHOR.
+
+In no event shall the AUTHOR's liability exceed the purchase price of the 
+Script.  Additionally, NO REFUNDS will be given after purchase of the Script. 
+
+
+3. COPYRIGHT This Script is protected by copyright laws and international 
+copyright treaties, as well as other intellectual property laws and treaties.
+
+4. TERMINATION The license will terminate automatically and the Script 
+unregistered if you fail to comply with any of the above terms and conditions. 
+The license may be terminated by either party at any time and without notice.
+
+5. DISCLAIMER OF WARRANTY THIS Script IS PROVIDED "AS IS" WITHOUT WARRANTY OF 
+ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR FURTHER 
+DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT.  THE 
+ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE PRODUCT AND 
+DOCUMENTATION REMAINS WITH RECIPIENT. TO THE MAXIMUM EXTENT PERMITTED BY 
+APPLICABLE LAW, AND IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY 
+CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES 
+WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, 
+BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) 
+ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE PRODUCT, 
+EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
